@@ -40,8 +40,8 @@ http://localhost:3000/price/hk/:stockID
 example:
 http://localhost:3000/price/hk/0001
 
-### Getting US stock price
-http://localhost:3000/price/hk/:stockID
+### Getting US stock price:
+http://localhost:3000/price/us/:stockID
 
 example:
-http://localhost:3000/price/us/0001
+http://localhost:3000/price/us/baba
